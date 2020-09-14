@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\bin\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.exe
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\bin\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.deps.json
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\bin\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.runtimeconfig.json
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\bin\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\bin\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.dll
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\bin\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.pdb
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\obj\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\obj\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\obj\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.AssemblyInfo.cs
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\obj\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\obj\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.dll
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\obj\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.pdb
+C:\Users\PC\source\repos\PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu\obj\Debug\netcoreapp3.1\PhanTuLonNhatMang2Chieu.genruntimeconfig.cache
